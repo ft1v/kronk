@@ -9,4 +9,4 @@ Feature rich Krunker Client aimed at performance and customizability<br><br>
 * Discord RPC
 
 ### discord server
-https://youtube.com
+https://discord.gg/rryQWqXCDH
