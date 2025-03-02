@@ -18,5 +18,11 @@ Feature rich Krunker Client aimed at performance and customizability<br><br>
 * Ingame stats overlay
 * Custom ingame username/clan
 
+### userscripts
+* `%USERPROFILE%/Documents/kronk_data/userscripts/*.js`
+
+### custom css
+* `%USERPROFILE%/Documents/kronk_data/main_custom.css`
+
 ### discord server
 https://discord.gg/rryQWqXCDH
