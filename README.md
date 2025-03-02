@@ -4,9 +4,19 @@ Feature rich Krunker Client aimed at performance and customizability<br><br>
 
 ### features
 * Uncapped FPS
-* Customizable Matchmaker
 * Userscripts
+* Custom CSS
+* Ad blocker
 * Discord RPC
+* Customizable matchmaker
+* Custom player color, ambient color, fog (use at your own risk)
+* Menu timer
+
+### upcoming features
+* Alt manager
+* Ingame key strokes overlay
+* Ingame stats overlay
+* Custom ingame username/clan
 
 ### discord server
 https://discord.gg/rryQWqXCDH
